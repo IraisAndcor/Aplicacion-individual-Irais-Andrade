@@ -1,4 +1,4 @@
-**FUNCIONAMIENTO GENERAL DE LA APLICACIÓN**¡Claro! Vamos a profundizar aún más:
+**FUNCIONAMIENTO GENERAL DE LA APLICACIÓN**¡Claro!:
 
 1. **pubspec.yaml**:
    - Este archivo es crucial en cualquier proyecto Flutter. Define las dependencias del proyecto, lo que significa que especifica qué paquetes de software externos necesita el proyecto para funcionar correctamente. También gestiona los recursos del proyecto, como imágenes, fuentes y otros archivos necesarios.
@@ -21,9 +21,9 @@
    - La lógica para generar números aleatorios y actualizar la imagen del dado se maneja en una clase privada llamada `_DiceRollerState`, que extiende `State`.
    - La representación visual del widget se define en el método `build`, que devuelve una columna que contiene la imagen del dado y un botón para lanzarlo.
 
-En resumen, estos archivos juntos forman una aplicación Flutter que muestra un contenedor con un fondo degradado y un botón para lanzar un dado. Cada vez que se presiona el botón, se genera un número aleatorio entre 1 y 6, y se actualiza la imagen del dado para mostrar el número generado.
+En resumen, estos archivos juntos forman una aplicación Flutter que muestra un contenedor con un fondo degradado y un botón para lanzar un dado. Cada vez que se presiona el botón, se genera un número aleatorio entre 1 y 6, y se actualiza la imagen (pilotos de fórmula 1) del dado para mostrar el número generado.
 
 
 *MODIFICACIONES DE LA APLICACIÓN Y VERSIÓN ORIGINAL*
 
-El código original fue tomado del repositorio: https://github.com/rsanlazaro/flutter-roll_dice, en el cual, la aplicación consistía en lanzar un lado y arrojar numeros al azar, siendo estos del 1 al 6, en este caso, la modificación que realicé consistió en cambiar las imágenes originales (dados) por neuvas imagenes correspondientes a pilotos de fórmula 1, de igual forma también se realizó la modfificación del color de fondo a rojo y la las letras del botón a gris. 
+El código original fue tomado del repositorio: https://github.com/rsanlazaro/flutter-roll_dice, en el cual, la aplicación consistía en lanzar un lado y arrojar numeros al azar, siendo estos del 1 al 6, en este caso, la modificación que realicé consistió en cambiar las imágenes originales (dados) por nuevas imagenes correspondientes a pilotos de fórmula 1, de igual forma también se realizó la modfificación del color de fondo a rojo y la las letras del botón a gris. 
