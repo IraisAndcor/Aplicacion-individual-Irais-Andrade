@@ -22,3 +22,6 @@
    - La representación visual del widget se define en el método `build`, que devuelve una columna que contiene la imagen del dado y un botón para lanzarlo.
 
 En resumen, estos archivos juntos forman una aplicación Flutter que muestra un contenedor con un fondo degradado y un botón para lanzar un dado. Cada vez que se presiona el botón, se genera un número aleatorio entre 1 y 6, y se actualiza la imagen del dado para mostrar el número generado.
+
+
+*MODIFICACIONES DE LA APLICACIÓN Y VERSIÓN ORIGINAL*
