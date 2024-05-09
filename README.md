@@ -25,3 +25,5 @@ En resumen, estos archivos juntos forman una aplicación Flutter que muestra un 
 
 
 *MODIFICACIONES DE LA APLICACIÓN Y VERSIÓN ORIGINAL*
+
+El código original fue tomado del repositorio: https://github.com/rsanlazaro/flutter-roll_dice, en el cual, la aplicación consistía en lanzar un lado y arrojar numeros al azar, siendo estos del 1 al 6, en este caso, la modificación que realicé consistió en cambiar las imágenes originales (dados) por neuvas imagenes correspondientes a pilotos de fórmula 1, de igual forma también se realizó la modfificación del color de fondo a rojo y la las letras del botón a gris. 
